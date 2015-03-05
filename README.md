@@ -3,7 +3,7 @@ Common Guidelines
 
 **We Support** (there could be exceptions)
 
-* Internet Explorer 9+
+* Internet Explorer 9+ (What about IE8?)
 * Firefox
 * Google Chrome
 * Safari
